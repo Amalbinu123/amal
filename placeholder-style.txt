@@ -1,0 +1,3 @@
+.contact-form input::placeholder, .contact-form textarea::placeholder {
+    color: rgba(176, 184, 255, 0.6);
+}
